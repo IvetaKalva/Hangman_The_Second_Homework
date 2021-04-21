@@ -1,4 +1,4 @@
-package Hangman.Hangman
+package gHangman
 
 /** Hangman game parameters used in the main game logic [[Hangman]]
  *
